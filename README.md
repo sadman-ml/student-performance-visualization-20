@@ -42,8 +42,9 @@ This project demonstrates that success is not only about luck; it is about devel
 ***I'm really interested in data analysis and visualization. I wanted to learn on my own. 
 Just practicing Python and trying to understand how to find insights from data. Learning by doing.***
 
-If you find this project helpful, please give it a star!!!!!!!!!
+# If you find this project helpful, please give it a star!!!!!!!!!
 
-Contact
+# Contact & Support
+⭐ If you find this project helpful, please give it a star!
 Sadman Ahmed
 GitHub: @sadman-ml
