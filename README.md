@@ -16,6 +16,7 @@ visuals.ipynb - All 20+ charts and graphs.
 data.csv - The dataset I used.
 
 What I Discovered ?????
+
 Study More, Score More: The more hours you spend studying, the higher your scores tend to be. It’s the biggest secret to success!
 Showing Up Matters: Students who attend more than 80% of their classes get much better grades than those who skip.
 Family Support: Students whose parents are actively involved in their studies usually stay motivated and perform better.
